@@ -23,9 +23,9 @@ h1{
 .title{
 	width: 100%;
 	text-align: center;
-	color: red;
+	color: black;
 	margin-top: 3vw;
-	font-family: "Times New Roman", Times, serif;
+	font-family: monospace;
 }
 .buttons_container{
     position: absolute;
